@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="my_question">1.India got independece on 1947?</string>
+    <string name="todo">TODO</string>
+    <string name="_1987">false</string>
+    <string name="_1947">true</string>
+    <string name="silk">5.The first tea bags were made of silk.</string>
+    <string name="tea">4.The best type of water for tea is twice-boiled water.</string>
+    <string name="animal">2.Horses, ponies, donkeys, mules, and zebras are also known as equines.</string>
+    <string name="coffee">3.Coffee became a popular drink in North America when the Boston Tea Party made tea hard to come by.</string>
+    <string name="nextbutton">TODO</string>
+</resources>
